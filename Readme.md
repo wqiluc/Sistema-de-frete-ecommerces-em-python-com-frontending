@@ -108,21 +108,25 @@ e veja o cálculo e os métodos de pagamento instantaneamente.
 
 ## 👨‍💻 Autores:
 
-<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 30px;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="95" />
+        <br>
+        <strong>Lucas Paguetti Pereira</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/helamã-procidio-428772367/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="95" />
+        <br>
+        <strong>Helamã Leone de Lima Procidio</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank" style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="95" />
-  <br>
-  <strong>Lucas Paguetti Pereira</strong>
-</a>
-
-<a href="https://www.linkedin.com/in/helamã-procidio-428772367/" target="_blank" style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="95" />
-  <br>
-  <strong>Helamã Leone de Lima Procidio</strong>
-</a>
-
-</div>
 
 <br><br>
 
