@@ -65,6 +65,7 @@ O projeto combina **backend em Python** com **frontend web**, permitindo que o u
     ├── peso.html
     ├── preco.html
     ├── regioes.html
+    ├── exterior.html
     ├── resumo.html
     ├── carrinho.html
 |static/
